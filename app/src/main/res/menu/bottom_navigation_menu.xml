@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/chatsFragment"
+    android:icon="@drawable/baseline_3p_24"
+    android:title="Чаты" />
+    <item
+        android:id="@+id/contactsFragment"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Контакты" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/baseline_settings_suggest_24"
+        android:title="Настройки" />
+</menu>
